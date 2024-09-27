@@ -22,3 +22,17 @@ public class PromedioNotas {
 
         // Mostramos el resultado al usuario
         System.out.println("El promedio de las tres notas es: " + promedio);
+
+PSEUDOCODIGO
+_________________________________________________________________________________
+Inicio
+    Leer nota1
+    Leer nota2
+    Leer nota3
+    suma ← nota1 + nota2 + nota3
+    promedio ← suma / 3
+    Escribir "El promedio es:", promedio
+Fin
+_________________________________________________________________________________
+
+
